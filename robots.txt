@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dltestamalina-bot.github.io/sitemap.xml
+Sitemap: https://testqadglab-cloud.github.io/sitemap.xml
