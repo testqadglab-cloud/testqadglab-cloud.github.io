@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: GrokBot
+Disallow: /
+
 Sitemap: https://testqadglab-cloud.github.io/sitemap.xml
